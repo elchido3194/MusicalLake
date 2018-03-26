@@ -122,6 +122,7 @@
     <ClInclude Include="Dragonfly.h" />
     <ClInclude Include="Frog.h" />
     <ClInclude Include="Songs.h" />
+    <ClInclude Include="SongsOrder.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
